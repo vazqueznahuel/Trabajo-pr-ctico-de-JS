@@ -1,5 +1,8 @@
 //#region 
     //en esta region estaran las variables
+    var nombre = "Adrian";
+    let edad = 18;
+    const apellido = "Vazquez";    
 //#endregion
 //#region 
     //en esta region estaran las funciones basicas matematicas
