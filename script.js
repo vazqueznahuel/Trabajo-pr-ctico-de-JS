@@ -9,4 +9,7 @@
 //#endregion
 //#region 
     //en esta region se imprimen los datos
+    console.log ("Nombre : " + nombre);
+    console.log (`Apellido : ` + apellido);
+    console.log ('Edad : ' + Edad);
 //#endregion
